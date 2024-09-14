@@ -57,6 +57,7 @@ body{
 .location{
     color: hsl(75, 94%, 57%);
     font-weight: 600;
+    font-size: 12px;
 }
 
 .description{
