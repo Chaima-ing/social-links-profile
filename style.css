@@ -34,7 +34,24 @@ body{
    border-radius: 10px;
 
    display: flex;
+   align-items: center;
    justify-content: center;
+
+   transform: color 0.3s ease;
+}
+
+.container-social-links >:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
+
+.container-social-links > * {
+    width: 310px;
+    height: 50px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .social-link{
