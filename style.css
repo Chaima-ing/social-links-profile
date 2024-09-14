@@ -26,3 +26,15 @@ body{
 
     border-radius: 50%;
 }
+
+.username{
+    color: hsl(0, 0%, 100%);
+}
+
+.location{
+    color: hsl(75, 94%, 57%);
+}
+
+.description{
+    color: hsl(0, 0%, 100%);
+}
