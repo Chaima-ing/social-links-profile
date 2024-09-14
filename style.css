@@ -32,12 +32,15 @@ body{
 
 .username{
     color: hsl(0, 0%, 100%);
+    font-weight: 600;
 }
 
 .location{
     color: hsl(75, 94%, 57%);
+    font-weight: 600;
 }
 
 .description{
     color: hsl(0, 0%, 100%);
+    font-weight: 400;
 }
