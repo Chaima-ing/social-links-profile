@@ -28,6 +28,9 @@ body{
 
    width: 240px;
    height: 45px;
+
+   display: flex;
+   justify-content: center;
 }
 
 .social-link{
