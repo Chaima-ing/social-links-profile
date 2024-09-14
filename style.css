@@ -15,4 +15,7 @@ body{
     height: 450px;
 
     border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
 }
