@@ -9,7 +9,8 @@ body{
 }
 
 .container-main{
-    background-color: hsl(0, 0%, 12%);
+    /* background-color: hsl(0, 0%, 12%); */
+    background-color: white;
 
     width: 200;
     height: 500;
