@@ -1,5 +1,5 @@
 # Front-end Style Guide
-##Colors
+# # Colors
 
 - white: hsl(0, 0%, 100%)
 
