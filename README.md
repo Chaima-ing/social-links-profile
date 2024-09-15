@@ -1,1 +1,2 @@
-# social-links-profile
+# Front-end Style Guide
+##Colors
