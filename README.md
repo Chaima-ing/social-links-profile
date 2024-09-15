@@ -11,4 +11,4 @@
 
 # # Design
 
-[image](avatar-jessica)
+[image](avatar-jessica.jpeg)
