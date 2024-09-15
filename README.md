@@ -9,3 +9,7 @@
 - grey: hsl(0, 0%, 12%)
 - grey: hsl(0, 0%, 20%)
 
+# # Design
+
+[image](avatar-jessica)
+
